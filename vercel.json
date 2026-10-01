@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/ws.js": {"maxDuration": 300},
+    "api/diagnostic.js": {"maxDuration": 30}
+  }
+}
